@@ -1,0 +1,11 @@
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\bin\Debug\net8.0\SlotAppointments.Domain.deps.json
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\bin\Debug\net8.0\SlotAppointments.Domain.dll
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\bin\Debug\net8.0\SlotAppointments.Domain.pdb
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\obj\Debug\net8.0\SlotAppointments.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\obj\Debug\net8.0\SlotAppointments.Domain.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\obj\Debug\net8.0\SlotAppointments.Domain.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\obj\Debug\net8.0\SlotAppointments.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\obj\Debug\net8.0\SlotAppointments.Domain.dll
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\obj\Debug\net8.0\refint\SlotAppointments.Domain.dll
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\obj\Debug\net8.0\SlotAppointments.Domain.pdb
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Domain\obj\Debug\net8.0\ref\SlotAppointments.Domain.dll

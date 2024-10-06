@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotAppointments.API", "SlotAppointments\SlotAppointments.API.csproj", "{10985D08-4775-4621-8BD6-63760BFB4529}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotAppointments.Tests", "SlotAppointments.Tests\SlotAppointments.Tests.csproj", "{E09AEAA1-55B4-40E1-8F78-962B12BC8559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotAppointments.Services", "SlotAppointments.Services\SlotAppointments.Services.csproj", "{01C01DD4-62EE-4128-AB67-5E8AA07392B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotAppointments.Domain", "SlotAppointments.Domain\SlotAppointments.Domain.csproj", "{D6F04D17-4EAB-47A5-8997-26AC292CD463}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotAppointments.ServiceAgents", "SlotAppointments.ServiceAgents\SlotAppointments.ServiceAgents.csproj", "{273E1DB6-B7B5-4DD4-A840-9E180757886B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10985D08-4775-4621-8BD6-63760BFB4529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10985D08-4775-4621-8BD6-63760BFB4529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10985D08-4775-4621-8BD6-63760BFB4529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10985D08-4775-4621-8BD6-63760BFB4529}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E09AEAA1-55B4-40E1-8F78-962B12BC8559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E09AEAA1-55B4-40E1-8F78-962B12BC8559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E09AEAA1-55B4-40E1-8F78-962B12BC8559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E09AEAA1-55B4-40E1-8F78-962B12BC8559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01C01DD4-62EE-4128-AB67-5E8AA07392B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01C01DD4-62EE-4128-AB67-5E8AA07392B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01C01DD4-62EE-4128-AB67-5E8AA07392B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01C01DD4-62EE-4128-AB67-5E8AA07392B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F04D17-4EAB-47A5-8997-26AC292CD463}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F04D17-4EAB-47A5-8997-26AC292CD463}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F04D17-4EAB-47A5-8997-26AC292CD463}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F04D17-4EAB-47A5-8997-26AC292CD463}.Release|Any CPU.Build.0 = Release|Any CPU
+		{273E1DB6-B7B5-4DD4-A840-9E180757886B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{273E1DB6-B7B5-4DD4-A840-9E180757886B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{273E1DB6-B7B5-4DD4-A840-9E180757886B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{273E1DB6-B7B5-4DD4-A840-9E180757886B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E189C666-87A6-46ED-9579-7FA688312519}
+	EndGlobalSection
+EndGlobal

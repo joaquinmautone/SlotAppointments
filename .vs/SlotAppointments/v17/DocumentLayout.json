@@ -1,0 +1,537 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E09AEAA1-55B4-40E1-8F78-962B12BC8559}|SlotAppointments.Tests\\SlotAppointments.Tests.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.tests\\slotappointments.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E09AEAA1-55B4-40E1-8F78-962B12BC8559}|SlotAppointments.Tests\\SlotAppointments.Tests.csproj|solutionrelative:slotappointments.tests\\slotappointments.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09AEAA1-55B4-40E1-8F78-962B12BC8559}|SlotAppointments.Tests\\SlotAppointments.Tests.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.tests\\services\\slotservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09AEAA1-55B4-40E1-8F78-962B12BC8559}|SlotAppointments.Tests\\SlotAppointments.Tests.csproj|solutionrelative:slotappointments.tests\\services\\slotservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\availabilityserviceagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\availabilityserviceagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\iavailabilityserviceagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\iavailabilityserviceagent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.services\\slots\\slotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|solutionrelative:slotappointments.services\\slots\\slotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\dtos\\takeslotresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\dtos\\takeslotresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\dtos\\availabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\dtos\\availabilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E09AEAA1-55B4-40E1-8F78-962B12BC8559}|SlotAppointments.Tests\\SlotAppointments.Tests.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.tests\\domain\\availabilitytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E09AEAA1-55B4-40E1-8F78-962B12BC8559}|SlotAppointments.Tests\\SlotAppointments.Tests.csproj|solutionrelative:slotappointments.tests\\domain\\availabilitytest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F04D17-4EAB-47A5-8997-26AC292CD463}|SlotAppointments.Domain\\SlotAppointments.Domain.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.domain\\availability\\entities\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F04D17-4EAB-47A5-8997-26AC292CD463}|SlotAppointments.Domain\\SlotAppointments.Domain.csproj|solutionrelative:slotappointments.domain\\availability\\entities\\availability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.services\\slots\\islotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|solutionrelative:slotappointments.services\\slots\\islotservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10985D08-4775-4621-8BD6-63760BFB4529}|SlotAppointments\\SlotAppointments.API.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments\\controllers\\slotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10985D08-4775-4621-8BD6-63760BFB4529}|SlotAppointments\\SlotAppointments.API.csproj|solutionrelative:slotappointments\\controllers\\slotcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.services\\slots\\dtos\\slotcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|solutionrelative:slotappointments.services\\slots\\dtos\\slotcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\dtos\\takeslotrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\dtos\\takeslotrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\dtos\\slotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\dtos\\slotdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\serviceagentbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\serviceagentbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.services\\slots\\dtos\\slotreadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|solutionrelative:slotappointments.services\\slots\\dtos\\slotreadingdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.services\\slots\\profiles\\slotprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|solutionrelative:slotappointments.services\\slots\\profiles\\slotprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.services\\slots\\profiles\\availabilityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|solutionrelative:slotappointments.services\\slots\\profiles\\availabilityprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F04D17-4EAB-47A5-8997-26AC292CD463}|SlotAppointments.Domain\\SlotAppointments.Domain.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.domain\\slots\\entities\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F04D17-4EAB-47A5-8997-26AC292CD463}|SlotAppointments.Domain\\SlotAppointments.Domain.csproj|solutionrelative:slotappointments.domain\\slots\\entities\\slot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10985D08-4775-4621-8BD6-63760BFB4529}|SlotAppointments\\SlotAppointments.API.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10985D08-4775-4621-8BD6-63760BFB4529}|SlotAppointments\\SlotAppointments.API.csproj|solutionrelative:slotappointments\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\dtos\\patientdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.services\\slots\\dtos\\patientcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01C01DD4-62EE-4128-AB67-5E8AA07392B6}|SlotAppointments.Services\\SlotAppointments.Services.csproj|solutionrelative:slotappointments.services\\slots\\dtos\\patientcreationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\configuration\\availabilityjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\configuration\\availabilityjsonconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\dtos\\daydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\dtos\\daydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\dtos\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\dtos\\facilitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10985D08-4775-4621-8BD6-63760BFB4529}|SlotAppointments\\SlotAppointments.API.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10985D08-4775-4621-8BD6-63760BFB4529}|SlotAppointments\\SlotAppointments.API.csproj|solutionrelative:slotappointments\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.serviceagents\\availability\\configuration\\apisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{273E1DB6-B7B5-4DD4-A840-9E180757886B}|SlotAppointments.ServiceAgents\\SlotAppointments.ServiceAgents.csproj|solutionrelative:slotappointments.serviceagents\\availability\\configuration\\apisettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F04D17-4EAB-47A5-8997-26AC292CD463}|SlotAppointments.Domain\\SlotAppointments.Domain.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.domain\\availability\\entities\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F04D17-4EAB-47A5-8997-26AC292CD463}|SlotAppointments.Domain\\SlotAppointments.Domain.csproj|solutionrelative:slotappointments.domain\\availability\\entities\\day.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F04D17-4EAB-47A5-8997-26AC292CD463}|SlotAppointments.Domain\\SlotAppointments.Domain.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.domain\\availability\\entities\\workperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6F04D17-4EAB-47A5-8997-26AC292CD463}|SlotAppointments.Domain\\SlotAppointments.Domain.csproj|solutionrelative:slotappointments.domain\\availability\\entities\\workperiod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6F04D17-4EAB-47A5-8997-26AC292CD463}|SlotAppointments.Domain\\SlotAppointments.Domain.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments.domain\\slotappointments.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D6F04D17-4EAB-47A5-8997-26AC292CD463}|SlotAppointments.Domain\\SlotAppointments.Domain.csproj|solutionrelative:slotappointments.domain\\slotappointments.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10985D08-4775-4621-8BD6-63760BFB4529}|SlotAppointments\\SlotAppointments.API.csproj|c:\\users\\administrador\\source\\repos\\slotappointments\\slotappointments\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10985D08-4775-4621-8BD6-63760BFB4529}|SlotAppointments\\SlotAppointments.API.csproj|solutionrelative:slotappointments\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SlotServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Tests\\Services\\SlotServiceTest.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Tests\\Services\\SlotServiceTest.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Tests\\Services\\SlotServiceTest.cs",
+              "RelativeToolTip": "SlotAppointments.Tests\\Services\\SlotServiceTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:53:17.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAvailabilityServiceAgent.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\IAvailabilityServiceAgent.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\IAvailabilityServiceAgent.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\IAvailabilityServiceAgent.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\IAvailabilityServiceAgent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:20:31.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AvailabilityServiceAgent.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\AvailabilityServiceAgent.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\AvailabilityServiceAgent.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\AvailabilityServiceAgent.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\AvailabilityServiceAgent.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAMwBQAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:38:37.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TakeSlotResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\TakeSlotResponse.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\TakeSlotResponse.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\TakeSlotResponse.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\TakeSlotResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:43:37.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SlotAppointments.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Tests\\SlotAppointments.Tests.csproj",
+              "RelativeDocumentMoniker": "SlotAppointments.Tests\\SlotAppointments.Tests.csproj",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Tests\\SlotAppointments.Tests.csproj",
+              "RelativeToolTip": "SlotAppointments.Tests\\SlotAppointments.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-02T20:12:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SlotService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\SlotService.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Services\\Slots\\SlotService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\SlotService.cs",
+              "RelativeToolTip": "SlotAppointments.Services\\Slots\\SlotService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAywBcAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:54:48.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AvailabilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\AvailabilityDto.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\AvailabilityDto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\AvailabilityDto.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\AvailabilityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T19:20:41.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AvailabilityTest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Tests\\Domain\\AvailabilityTest.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Tests\\Domain\\AvailabilityTest.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Tests\\Domain\\AvailabilityTest.cs",
+              "RelativeToolTip": "SlotAppointments.Tests\\Domain\\AvailabilityTest.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwB4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T14:39:10.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Availability.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Domain\\Availability\\Entities\\Availability.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Domain\\Availability\\Entities\\Availability.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Domain\\Availability\\Entities\\Availability.cs",
+              "RelativeToolTip": "SlotAppointments.Domain\\Availability\\Entities\\Availability.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA6wBAAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:26:12.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Slot.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Domain\\Slots\\Entities\\Slot.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Domain\\Slots\\Entities\\Slot.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Domain\\Slots\\Entities\\Slot.cs",
+              "RelativeToolTip": "SlotAppointments.Domain\\Slots\\Entities\\Slot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:55:34.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SlotController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments\\Controllers\\SlotController.cs",
+              "RelativeDocumentMoniker": "SlotAppointments\\Controllers\\SlotController.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments\\Controllers\\SlotController.cs",
+              "RelativeToolTip": "SlotAppointments\\Controllers\\SlotController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBgAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:22:58.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TakeSlotRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\TakeSlotRequest.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\TakeSlotRequest.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\TakeSlotRequest.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\TakeSlotRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:39:01.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ServiceAgentBase.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\ServiceAgentBase.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\ServiceAgentBase.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\ServiceAgentBase.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\ServiceAgentBase.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAMwC4AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:46:33.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ISlotService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\ISlotService.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Services\\Slots\\ISlotService.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\ISlotService.cs",
+              "RelativeToolTip": "SlotAppointments.Services\\Slots\\ISlotService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAIAwwA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T20:13:45.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SlotCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\Dtos\\SlotCreationDto.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Services\\Slots\\Dtos\\SlotCreationDto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\Dtos\\SlotCreationDto.cs",
+              "RelativeToolTip": "SlotAppointments.Services\\Slots\\Dtos\\SlotCreationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:23:32.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SlotDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\SlotDto.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\SlotDto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\SlotDto.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\SlotDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:43:00.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SlotReadingDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\Dtos\\SlotReadingDto.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Services\\Slots\\Dtos\\SlotReadingDto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\Dtos\\SlotReadingDto.cs",
+              "RelativeToolTip": "SlotAppointments.Services\\Slots\\Dtos\\SlotReadingDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:34:56.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SlotProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\Profiles\\SlotProfile.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Services\\Slots\\Profiles\\SlotProfile.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\Profiles\\SlotProfile.cs",
+              "RelativeToolTip": "SlotAppointments.Services\\Slots\\Profiles\\SlotProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T18:02:18.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AvailabilityProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\Profiles\\AvailabilityProfile.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Services\\Slots\\Profiles\\AvailabilityProfile.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\Profiles\\AvailabilityProfile.cs",
+              "RelativeToolTip": "SlotAppointments.Services\\Slots\\Profiles\\AvailabilityProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:56:23.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments\\appsettings.json",
+              "RelativeDocumentMoniker": "SlotAppointments\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments\\appsettings.json",
+              "RelativeToolTip": "SlotAppointments\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T13:13:01.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PatientDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\PatientDto.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\PatientDto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\PatientDto.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\PatientDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:40:27.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PatientCreationDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\Dtos\\PatientCreationDto.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Services\\Slots\\Dtos\\PatientCreationDto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Services\\Slots\\Dtos\\PatientCreationDto.cs",
+              "RelativeToolTip": "SlotAppointments.Services\\Slots\\Dtos\\PatientCreationDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T19:25:26.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FacilityDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\FacilityDto.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\FacilityDto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\FacilityDto.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\FacilityDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T18:44:13.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AvailabilityJsonConverter.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Configuration\\AvailabilityJsonConverter.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\Configuration\\AvailabilityJsonConverter.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Configuration\\AvailabilityJsonConverter.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\Configuration\\AvailabilityJsonConverter.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwBoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T18:27:44.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApiSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Configuration\\ApiSettings.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\Configuration\\ApiSettings.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Configuration\\ApiSettings.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\Configuration\\ApiSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T20:03:18.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DayDto.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\DayDto.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\DayDto.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.ServiceAgents\\Availability\\Dtos\\DayDto.cs",
+              "RelativeToolTip": "SlotAppointments.ServiceAgents\\Availability\\Dtos\\DayDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T17:52:55.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments\\Program.cs",
+              "RelativeDocumentMoniker": "SlotAppointments\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments\\Program.cs",
+              "RelativeToolTip": "SlotAppointments\\Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAWwAcAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-01T19:23:29.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Day.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Domain\\Availability\\Entities\\Day.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Domain\\Availability\\Entities\\Day.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Domain\\Availability\\Entities\\Day.cs",
+              "RelativeToolTip": "SlotAppointments.Domain\\Availability\\Entities\\Day.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:28:06.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WorkPeriod.cs",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Domain\\Availability\\Entities\\WorkPeriod.cs",
+              "RelativeDocumentMoniker": "SlotAppointments.Domain\\Availability\\Entities\\WorkPeriod.cs",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Domain\\Availability\\Entities\\WorkPeriod.cs",
+              "RelativeToolTip": "SlotAppointments.Domain\\Availability\\Entities\\WorkPeriod.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:29:01.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SlotAppointments.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Domain\\SlotAppointments.Domain.csproj",
+              "RelativeDocumentMoniker": "SlotAppointments.Domain\\SlotAppointments.Domain.csproj",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments.Domain\\SlotAppointments.Domain.csproj",
+              "RelativeToolTip": "SlotAppointments.Domain\\SlotAppointments.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-05T12:19:45.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SlotAppointments\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SlotAppointments\\SlotAppointments\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SlotAppointments\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-02T20:22:13.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

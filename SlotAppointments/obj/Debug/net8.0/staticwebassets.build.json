@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tPGdxrs29UqHcRYrGuYnQ72L0tSiZtNEZP1EAgQ91/s=",
+  "Source": "SlotAppointments.API",
+  "BasePath": "_content/SlotAppointments.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

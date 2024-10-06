@@ -1,0 +1,17 @@
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\bin\Debug\net8.0\SlotAppointments.Services.deps.json
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\bin\Debug\net8.0\SlotAppointments.Services.dll
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\bin\Debug\net8.0\SlotAppointments.Services.pdb
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\bin\Debug\net8.0\SlotAppointments.ServiceAgents.dll
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\bin\Debug\net8.0\SlotAppointments.ServiceAgents.pdb
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\obj\Debug\net8.0\SlotAppointments.Services.csproj.AssemblyReference.cache
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\obj\Debug\net8.0\SlotAppointments.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\obj\Debug\net8.0\SlotAppointments.Services.AssemblyInfoInputs.cache
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\obj\Debug\net8.0\SlotAppointments.Services.AssemblyInfo.cs
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\obj\Debug\net8.0\SlotAppointments.Services.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\obj\Debug\net8.0\SlotAppo.87601553.Up2Date
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\obj\Debug\net8.0\SlotAppointments.Services.dll
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\obj\Debug\net8.0\refint\SlotAppointments.Services.dll
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\obj\Debug\net8.0\SlotAppointments.Services.pdb
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\obj\Debug\net8.0\ref\SlotAppointments.Services.dll
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\bin\Debug\net8.0\SlotAppointments.Domain.dll
+C:\Users\Administrador\source\repos\SlotAppointments\SlotAppointments.Services\bin\Debug\net8.0\SlotAppointments.Domain.pdb
